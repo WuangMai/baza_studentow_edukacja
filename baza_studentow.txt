@@ -18,3 +18,8 @@ testowy3
 20
 tesowa3
 123
+piatek
+test
+28
+tesowa
+420

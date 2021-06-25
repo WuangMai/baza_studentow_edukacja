@@ -141,16 +141,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\ConverterTest\Main.h" />
-    <ClInclude Include="..\ConverterTest\Menu.h" />
-    <ClInclude Include="..\ConverterTest\studentEdukacja.h" />
-    <ClInclude Include="..\ConverterTest\StudentEdukacjaDao.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="studentEdukacja.h" />
+    <ClInclude Include="StudentEdukacjaDao.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\ConverterTest\Main.cpp" />
-    <ClCompile Include="..\ConverterTest\Menu.cpp" />
-    <ClCompile Include="..\ConverterTest\studentEdukacja.cpp" />
-    <ClCompile Include="..\ConverterTest\StudentEdukacjaDao.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="studentEdukacja.cpp" />
+    <ClCompile Include="StudentEdukacjaDao.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
