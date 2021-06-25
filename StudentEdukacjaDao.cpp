@@ -5,10 +5,7 @@
 #include <iostream>
 #include <vector>
 
-
 std::vector<StudentEdukacja*> StudentEdukacjaDao::wczytaj = StudentEdukacjaDao::load();
-
-
 
 std::vector<StudentEdukacja*> StudentEdukacjaDao::load()
 {

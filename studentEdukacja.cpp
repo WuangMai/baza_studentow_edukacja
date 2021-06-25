@@ -28,8 +28,6 @@ std::string StudentEdukacja::toString()
 	return "\n\tImie= " + imie + "\n" + "\tNazwisko= " + nazwisko + "\n" + "\tWiek= " + std::to_string(wiek) + "\n" + "\tGrupa= " + grupa + "\n" + "\tIndex= " + std::to_string(index) + "\n- - - - - - - - - - - - - - ";
 }
 
-
-
 void StudentEdukacja::setImie(const std::string& imie)
 {
 	this->imie = imie;

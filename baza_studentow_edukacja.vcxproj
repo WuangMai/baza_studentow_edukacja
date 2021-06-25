@@ -141,9 +141,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Main.h" />
     <ClInclude Include="Menu.h" />
-    <ClInclude Include="studentEdukacja.h" />
+    <ClInclude Include="StudentEdukacja.h" />
     <ClInclude Include="StudentEdukacjaDao.h" />
   </ItemGroup>
   <ItemGroup>
